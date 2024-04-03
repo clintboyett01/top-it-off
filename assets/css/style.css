@@ -626,7 +626,7 @@ body.nav-active { overflow: hidden; }
 
 .nav-open-btn {
   padding: 12px;
-  padding-inline-end: 0;
+  padding-inline-end: 0px;
 }
 
 .nav-open-btn .line {
